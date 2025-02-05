@@ -1,0 +1,87 @@
+{
+    "version": "v1",
+    "title": "Baue zwei große Treppen",
+    "description": "Karol soll nun zwei große Treppe bauen. Schreibe eine Methode/Anweisung!",
+    "tasks": [
+        {
+            "title": "zwei große Treppen",
+            "start": {
+                "dimX": 13,
+                "dimY": 1,
+                "height": 4,
+                "karol": {
+                    "x": 0,
+                    "y": 0,
+                    "dir": "east"
+                },
+                "bricks": {
+                    "offsetX": -1,
+                    "offsetY": -1,
+                    "dimX": 0,
+                    "dimY": 0,
+                    "data": []
+                },
+                "marks": {
+                    "offsetX": -1,
+                    "offsetY": -1,
+                    "dimX": 0,
+                    "dimY": 0,
+                    "data": []
+                },
+                "blocks": {
+                    "offsetX": -1,
+                    "offsetY": -1,
+                    "dimX": 0,
+                    "dimY": 0,
+                    "data": []
+                }
+            },
+            "target": {
+                "dimX": 13,
+                "dimY": 1,
+                "height": 4,
+                "karol": {
+                    "x": 10,
+                    "y": 0,
+                    "dir": "east"
+                },
+                "bricks": {
+                    "dimX": 11,
+                    "dimY": 1,
+                    "offsetX": 1,
+                    "offsetY": 0,
+                    "data": [
+                        [
+                            1,
+                            2,
+                            3,
+                            2,
+                            1,
+                            0,
+                            1,
+                            2,
+                            3,
+                            2,
+                            1
+                        ]
+                    ]
+                },
+                "marks": {
+                    "offsetX": -1,
+                    "offsetY": -1,
+                    "dimX": 0,
+                    "dimY": 0,
+                    "data": []
+                },
+                "blocks": {
+                    "offsetX": -1,
+                    "offsetY": -1,
+                    "dimX": 0,
+                    "dimY": 0,
+                    "data": []
+                }
+            }
+        }
+    ],
+    "lng": "de"
+}
